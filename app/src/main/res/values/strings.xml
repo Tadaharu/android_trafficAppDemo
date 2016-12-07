@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PG Colloquium</string>
+    <string-array name="timeChoice">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hours</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+    </string-array>
+</resources>
